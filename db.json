@@ -1,0 +1,48 @@
+{
+  "submissions": [
+    {
+      "id": "0d7f",
+      "Staff_id": "027577",
+      "Staff_Name": "ThinYadi Aung",
+      "Date": "2024-08-08T06:31:40.000Z",
+      "Tasks": [
+        {
+          "TaskNumber": "2",
+          "FromTime": "2024-08-07T06:00:00.000Z",
+          "ToTime": "2024-08-07T07:00:00.000Z",
+          "Task": "Development",
+          "SubTask": "Production",
+          "Status": "Pending",
+          "Project": "SSBP",
+          "Remark": "Something",
+          "PM": "-",
+          "BA": "-",
+          "BusinessFunction": "F21-SOFTWARE AND DATA ANALYTICS FUNCTION",
+          "KpiCategory": "Customer"
+        }
+      ]
+    },
+    {
+      "id": "c1d7",
+      "Staff_id": "027577",
+      "Staff_Name": "May Thu Zaw",
+      "Date": "2024-08-08T06:31:40.000Z",
+      "Tasks": [
+        {
+          "TaskNumber": "2",
+          "FromTime": "2024-08-07T06:00:00.000Z",
+          "ToTime": "2024-08-07T07:00:00.000Z",
+          "Task": "Development",
+          "SubTask": "Production",
+          "Status": "Pending",
+          "Project": "SSBP",
+          "Remark": "Something",
+          "PM": "-",
+          "BA": "-",
+          "BusinessFunction": "F21-SOFTWARE AND DATA ANALYTICS FUNCTION",
+          "KpiCategory": "Customer"
+        }
+      ]
+    }
+  ]
+}
